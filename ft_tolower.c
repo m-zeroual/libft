@@ -6,12 +6,11 @@
 /*   By: mzeroual <mzeroual@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/09/30 13:20:22 by mzeroual          #+#    #+#             */
-/*   Updated: 2022/09/30 13:26:57 by mzeroual         ###   ########.fr       */
+/*   Updated: 2022/10/12 17:45:08 by mzeroual         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdio.h>
 
 int	ft_tolower(int n)
 {
